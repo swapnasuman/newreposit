@@ -1,4 +1,5 @@
 Hi,this is Swapna
 This is week 2 lesson at Per Scholas.
 Learning git.
-We are learning Push and Pull commands
+We are learning Push and Pull commands.
+Doing lab as well.
